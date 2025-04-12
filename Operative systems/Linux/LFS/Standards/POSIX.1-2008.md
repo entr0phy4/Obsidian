@@ -1,0 +1,1 @@
+Defines a standard operating system interface and environment, including a command interpreter (or "[[Shell]]"), and commons utility programs to support applications portability at the course code level. Is intended to be used by both application developers and system implementors and comprises four major components (each in an associated volume)

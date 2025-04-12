@@ -1,0 +1,2 @@
+x86 is a widely used computer architecture for central processing unit ([[Central Processing Unit (CPU)]]). The name "x86" is derived from the 8086.
+Unlike some other architectures, x86 uses a [[Complex Instruction Set Computer (CISC)]]  design. This means it supports a wide range of instructions that can perform multiple tasks in one operation, making it versatile but potentially more power-hungry.

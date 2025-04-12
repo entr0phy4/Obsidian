@@ -1,0 +1,2 @@
+Is an approach to networking that uses software-based controllers or applications programming interfaces (API's) to communicate with underlying hardware infrastructure and direct traffic on a network.
+This model differs from that of traditional networks, which use dedicated hardware devices (i.e routers and switches) to control network traffic. SDN can create and control a [[Virtual network]] or control traditional hardware via software

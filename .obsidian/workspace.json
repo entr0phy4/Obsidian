@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "92fa18480b7d0285",
+    "type": "split",
+    "children": [
+      {
+        "id": "00448e70b6e58728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe9c2dfd926e825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operative systems/Linux/Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c4db1dd40a88889",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe942597b1a3044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec5234a8ce34026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11bae29a5440e26c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee2ab3ebb44af8b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aff826b67d03cff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9c1c96ded2e20d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86023bbb8d72e7b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyber security Roadmap/fundamentals/Software/Operative System (OS).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Operative System (OS)"
+            }
+          },
+          {
+            "id": "7512f8c4a107ef0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cyber security Roadmap/fundamentals/Software/Operative System (OS).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Operative System (OS)"
+            }
+          },
+          {
+            "id": "86d920e6d4846be0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "591e6e899cb71cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyber security Roadmap/fundamentals/Software/Operative System (OS).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Operative System (OS)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9fe9c2dfd926e825",
+  "lastOpenFiles": [
+    "Operative systems/Linux/Tools/Tools.md",
+    "Operative systems/Linux/LFS/Linux From Scratch.md",
+    "Operative systems/Linux/LFS/Standards/Linux Standard Base (LSB) Version 5.0 (2015).md",
+    "Operative systems/Linux/LFS/Standards/Filesystem Hierarchy Standard (FHS) Version 3.0.md",
+    "Operative systems/Linux/LFS/Standards/POSIX.1-2008.md",
+    "Operative systems/Linux/LFS/Standards",
+    "Fundamentals/Software/Operative System (OS).md",
+    "Operative systems/Linux/LFS",
+    "Operative systems/Operative Systems (.md",
+    "Networking/Networking.md",
+    "Operative systems/Standards",
+    "pwnWifi.sh",
+    "Networking/Components/IP address.md",
+    "Networking/Domain name.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 33.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 23.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 22.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 21.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 20.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 19.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 18.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 17.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 16.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 15.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 14.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 13.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 12.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 11.md",
+    "Operative systems/Linux/Daemons/Init system.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Bandit.md",
+    "Images/Pasted image 20250410131521.png",
+    "Images/Pasted image 20250410141949.png",
+    "Images/Pasted image 20250410140424.png",
+    "Images/Pasted image 20250410140404.png",
+    "Images/Pasted image 20250410133512.png",
+    "Images/Pasted image 20250410133410.png",
+    "Images/Pasted image 20250410132545.png",
+    "Images/Pasted image 20250410132101.png",
+    "Images/Pasted image 20250410131914.png",
+    "Images/Pasted image 20250410131547.png",
+    "Operative systems/Linux/Permissions",
+    "Programming",
+    "Operative systems/Linux/Tools/Command-line utilities",
+    "Cyber security/Recognition tools",
+    "Images",
+    "Programming/Bash scripting/Over The Wire/Bandit"
+  ]
+}

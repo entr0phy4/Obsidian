@@ -1,0 +1,4 @@
+### Types of switching
+- _Circuit switching_ establishes a dedicated data communication path between nodes in a network, so no other traffic can traverse the same path, Circuit switching sees to it that full bandwidth is available during every transmission.
+- _Message switching_ sends whole messages from the source node to the destination node, with the message traveling from switch to switch until it reaches the destination.
+- _Packet switching_ involves breaking down data into independent components to make data transmission less demanding of network resources. With packet switching, packets instead of entire data streams travel through the network to their end destination.

@@ -1,0 +1,1 @@
+Is a computer architecture in which single instructions can execute several low-level operations (such as a load from memory, and arithmetic operation, and a memory store)

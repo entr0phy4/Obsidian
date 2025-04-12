@@ -1,0 +1,1 @@
+Refers to the number of bits, or binary digits, used in a computer system or program. It's a way to describe the architecture of a computer's hardware or software.

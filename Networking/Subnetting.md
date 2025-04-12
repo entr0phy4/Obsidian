@@ -1,0 +1,1 @@
+A subnet, or subnetwork, is a network inside a network. Subnets make networks more efficient. Through subnetting, network traffic can travel a shorter distance without passing through unnecessary [[Routers]] to reach its destination

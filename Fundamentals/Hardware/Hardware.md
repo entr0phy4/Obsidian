@@ -1,0 +1,10 @@
+### [[Central Processing Unit (CPU)]]
+### [[EEPROM]]
+### [[Memory]]
+### [[Motherboard]]
+### [[Non-volatile memory]]
+### [[NOR flash]]
+### [[Random Access Memory (RAM)]]
+### [[ROM]]
+
+### Architecture [[x86-based]]

@@ -1,0 +1,1 @@
+A free and open-source network scanner tool. Nmap supports various scan types and protocols, including TCP, UDP, SYN and more.

@@ -1,0 +1,4 @@
+A power-on self-test (POST) is a process performed by [[Firmware]] or [[Software]] routines immediately after a computer or other digital electronic device is powered on.
+POST processes may set the initial state of the device from firmware detect if any hardware components are non-functional. The results of the POST may be displayed on a panel that is part of the device, output to an external device, or stored for future retrieval by a diagnostic tool. In some computers, an indicator lamp or a speaker may be provided to show error codes as a sequence of flashes or beeps in the event that a computer display malfunctions.
+POST routines are part of a computer's pre-boot sequence. If they complete successfully, the [[Bootloader]] code is invoked to load an operating system.
+In IBM PC compatible computers, the main duties of POST are handled by the [[BIOS]] or [[UEFI]].

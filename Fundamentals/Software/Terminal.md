@@ -1,0 +1,1 @@
+It's a program (also called a terminal emulator) that displays a command-line interface where you can interact with the [[Shell]]. Think of it as the interface you can type commands into.

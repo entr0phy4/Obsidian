@@ -1,0 +1,2 @@
+Network virtualization (NV) refers to abstracting network resources that were traditionally delivered in hardware to software. NV can combine multiple physical networks to one virtual, software-based network, or it can divide one physical network into separate, independent virtual networks.
+Network virtualization software allows network administrators to move virtual machines across different domains without re-configuring the network. The software creates a network overlay that can run separate virtual network layers on top of the same physical network fabric.

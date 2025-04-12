@@ -1,0 +1,1 @@
+Is the phone-book of the internet. Humans access information online through [[Domain name]]'s. Web browsers interact through [[IP address]]. DNS translates domain names to IP address so browsers can load internet resources.
