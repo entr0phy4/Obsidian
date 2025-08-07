@@ -15,6 +15,10 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,6 +78,7 @@
       }
     ],
     "direction": "horizontal",
+    "width": 321.5
     "width": 321.5
   },
   "right": {
@@ -164,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fe9c2dfd926e825",
+  "active": "1ec5234a8ce34026",
   "lastOpenFiles": [
     "Programming/Programming languages.md",
     "Operative systems/Linux/Files/sched_debug.md",
