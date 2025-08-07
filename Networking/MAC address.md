@@ -1,0 +1,1 @@
+A MAC address is a sequence of 12 [[hexdecimal]] digits (0-9 and A-F). These digits are usually split into pairs and separated by colons or hyphens, like this: 00:1A:2B:3C:4D:5E.

@@ -1,0 +1,1 @@
+Stands for **Local Security Authority Subsystem Service**, a crucial [[Windows]] process responsible for handling user authentication, access control, and security policies. It validates user logins, manages security policies, and generates access tokens, forming a vital components of Windows security.

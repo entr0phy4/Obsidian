@@ -1,0 +1,2 @@
+[[keepassxc]]
+[[keepass2john]]

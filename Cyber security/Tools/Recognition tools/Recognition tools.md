@@ -1,0 +1,4 @@
+### [[nmap]]
+[[snmpwalk]]
+[[dnsenum]]
+[[dig]]

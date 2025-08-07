@@ -1,0 +1,6 @@
+[[smbserver.py]]
+[[psexec.py]]
+[[GetNPUsers.py]]
+[[secretdump.py]]
+[[getST.py]]
+[[wmiexec.py]]

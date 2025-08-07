@@ -1,3 +1,5 @@
 [[Tools]]
+[[Machines]]
 [[OverTheWire]]
 [[Attacks]]
+[[Techniques]]

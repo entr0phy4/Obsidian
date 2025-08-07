@@ -1,0 +1,5 @@
+[[Groups]]
+[[Services]]
+[[Powershell]]
+[[Privileges]]
+[[Binaries]]

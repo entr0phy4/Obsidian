@@ -1,2 +1,5 @@
 [[Brute force]]
 [[Deauthentication]]
+[[SQL Injection]]
+[[Brute force]]
+[[AS-REP Roasting]]

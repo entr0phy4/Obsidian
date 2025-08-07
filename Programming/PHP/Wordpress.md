@@ -1,0 +1,4 @@
+[[xmlrpc.php]]
+
+
+[[Wordpress plugins]]
