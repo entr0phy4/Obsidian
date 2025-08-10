@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00448e70b6e58728",
+        "id": "5beb149c53da4df8",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe9c2dfd926e825",
+            "id": "1ce4c43288a91aa9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Proxy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxy"
             }
           }
         ]
@@ -78,7 +78,6 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
     "width": 321.5
   },
   "right": {
@@ -169,8 +168,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ec5234a8ce34026",
+  "active": "1ce4c43288a91aa9",
   "lastOpenFiles": [
+    "Networking/Virtual Private Network.md",
+    "Networking/Subnetting.md",
+    "Untitled.md",
+    "Cyber security/Tools/bettercap.md",
+    "Cyber security/Attacks/ARP Spoofing.md",
+    "Pasted image 20250809184909.png",
+    "Pasted image 20250809184849.png",
+    "Pasted image 20250809184204.png",
+    "Pasted image 20250809183638.png",
+    "Pasted image 20250809183315.png",
+    "Networking/Virtual network.md",
+    "Cloud/AWS Certified Solutions Architect/Untitled.md",
+    "Cloud/AWS Certified Solutions Architect/Untitled",
+    "Cloud/AWS Certified Solutions Architect/IAM.md",
+    "Cloud/Amazon Web Services (AWS).md",
+    "Cloud/AWS Certified Solutions Architect",
+    "Cloud/aws-cli.md",
+    "Cloud/lambda.md",
+    "Cyber security/Hack The Box/Machines/Machines.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Level 17.md",
+    "Programming/Bash scripting/Over The Wire/Bandit/Bandit.md",
+    "Cyber security/Hack The Box/Machines/EarlyAccess.md",
+    "Cyber security/Hack The Box/Machines/Tentacle.md",
+    "Cyber security/Hack The Box/Machines/Mischief.md",
+    "brain",
     "Programming/Programming languages.md",
     "Operative systems/Linux/Files/sched_debug.md",
     "Operative systems/Linux/Files/net tcp.md",
@@ -180,42 +204,17 @@
     "Programming/Python/Frameworks/Flask.md",
     "Programming/Python/Frameworks/FastApi.md",
     "Programming/Python/Frameworks/Django.md",
-    "Programming/Python/Python.md",
     "Programming/Python/Libraries",
     "Programming/Python/Frameworks",
     "Programming/Python",
-    "Programming/PHP/Plugins/Wordpress plugins.md",
-    "Programming/PHP/Frameworks/laravel.md",
-    "Programming/PHP/xmlrpc.php.md",
-    "Programming/PHP/php wrappers filters.md",
-    "Programming/PHP/Wordpress.md",
     "Programming/PHP/Plugins",
-    "Programming/PHP/PHP.md",
     "Programming/PHP/Frameworks",
     "Programming/PHP",
-    "Programming/JavaScript/Libraries/Express.md",
-    "Programming/JavaScript/Frameworks/React.md",
-    "Programming/JavaScript/Frameworks/Node.js.md",
-    "Programming/JavaScript/Frameworks/NextJS.md",
-    "Programming/JavaScript/Frameworks/NestJS.md",
-    "Programming/JavaScript/json.md",
     "Programming/JavaScript/Libraries",
-    "Programming/JavaScript/JavaScript.md",
-    "Programming/JavaScript/Frameworks",
-    "Programming/JavaScript",
-    "Programming/Groovy/Groovy.md",
-    "Programming/Groovy",
-    "Operative systems/Linux/Wildcards.md",
-    "Operative systems/Linux/What_s Linux_.md",
     "Images/Pasted image 20250426171048.png",
     "Images/Pasted image 20250426170142.png",
     "Images/Pasted image 20250426164911.png",
     "Images/Pasted image 20250426164802.png",
-    "Images/Pasted image 20250426164101.png",
-    "Images/Pasted image 20250426164013.png",
-    "Images/Pasted image 20250426155518.png",
-    "Images/Pasted image 20250426144602.png",
-    "Images/Pasted image 20250426144531.png",
-    "Images/Pasted image 20250426144449.png"
+    "Images/Pasted image 20250426164101.png"
   ]
 }
